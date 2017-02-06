@@ -1,6 +1,7 @@
 #include <stdio.h>
 
+main{
 
 
-
-printf("ramazan")
+printf("ramazan");
+}
